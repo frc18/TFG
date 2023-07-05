@@ -26,7 +26,7 @@ import org.apache.http.util.EntityUtils;
 public class ChatGPT {
 
     private static final String API_URL = "https://api.openai.com/v1/completions";
-    private static final String AUTH_TOKEN = "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";
+    private static final String AUTH_TOKEN = "sk-XXXXXXXXXXX";
     private static final String MODEL_NAME = "text-davinci-003";
     private static final int MAX_TOKENS = 1000;
     private static final double TEMPERATURE = 1.0;
